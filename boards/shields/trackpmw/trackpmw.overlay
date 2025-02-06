@@ -46,3 +46,9 @@
 
   };
 };
+
+/ {
+    chosen {
+        zmk,physical-layout = &trackball_listener;
+    }
+}
