@@ -49,6 +49,6 @@
 
 / {
     chosen {
-        zmk,physical-layout = &trackball_listener;
+        zmk,physical-layout = &physical_layout0;
     };
 };
