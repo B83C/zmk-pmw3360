@@ -1,0 +1,6 @@
+if SHIELD_TRACKPMW
+
+config ZMK_KEYBOARD_NAME
+	default "tp"
+
+endif
